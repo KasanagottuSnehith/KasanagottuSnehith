@@ -21,7 +21,7 @@
   <img src="https://img.shields.io/badge/Status-Open%20to%20Work-2ea44f?style=flat-square" />
   <img src="https://img.shields.io/badge/Role-Java%20Full%20Stack%20Developer-007396?style=flat-square&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/Location-Hyderabad%2C%20India-orange?style=flat-square" />
-  <img src="https://img.shields.io/badge/Graduating-2026-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/Graduating-2027-blue?style=flat-square" />
 </p>
 
 ---
