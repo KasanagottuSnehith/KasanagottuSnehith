@@ -1,471 +1,183 @@
-<!-- ========================================================= -->
-<!--                    PROFILE HEADER                         -->
-<!-- ========================================================= -->
-
+<!-- ===================== HEADER (animated wave) ===================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=250&section=header&text=Kasanagottu%20Snehith&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Java%20Full%20Stack%20%7C%20GenAI%20%7C%20IoT%20%26%20Embedded%20Systems&descSize=19&descAlignY=60" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=240&section=header&text=Kasanagottu%20Snehith&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Java%20Full%20Stack%20Developer%20%7C%20GenAI%20%7C%20IoT%20and%20Embedded&descSize=20&descAlignY=60" alt="header" />
 </p>
 
-<!-- ========================================================= -->
-<!--                    TYPING ANIMATION                       -->
-<!-- ========================================================= -->
-
+<!-- ===================== TYPING ANIMATION ===================== -->
 <p align="center">
   <a href="https://github.com/KasanagottuSnehith">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=850&lines=Hi+there%2C+I'm+Snehith+%F0%9F%91%8B;Java+Full+Stack+Developer+%7C+GenAI+Enthusiast;Building+Scalable+Applications+with+Java+%26+Spring+Boot;React+%2B+Spring+Boot+%2B+MySQL+%7C+Full+Stack+Development;Exploring+Generative+AI+%2B+IoT+%2B+Intelligent+Systems;Turning+Ideas+into+Real-World+Software+%F0%9F%9A%80" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=760&lines=Hi+there,+I+am+Snehith;Java+Full+Stack+Developer;ECE+Engineer+turned+Software+and+AI+Builder;Building+AI-powered+products+with+React+and+APIs;Fusing+Satellite+%2B+IoT+%2B+ML+to+solve+real+problems" alt="Typing SVG" />
   </a>
 </p>
 
-<!-- ========================================================= -->
-<!--                       SOCIAL LINKS                         -->
-<!-- ========================================================= -->
+<p align="center">
+  <a href="https://KasanagottuSnehith.github.io/Portfolio/"><img src="https://img.shields.io/badge/Portfolio-Visit-00F7FF?style=for-the-badge&logo=googlechrome&logoColor=black" /></a>
+  <a href="https://www.linkedin.com/in/kasanagottu-snehith-77ab4a337/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:snehithkasanagottu@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <img src="https://komarev.com/ghpvc/?username=KasanagottuSnehith&label=Profile%20Views&color=203a43&style=for-the-badge" />
+</p>
 
 <p align="center">
-
-<a href="https://KasanagottuSnehith.github.io/Portfolio/">
-<img src="https://img.shields.io/badge/Portfolio-Visit-00F7FF?style=for-the-badge&logo=googlechrome&logoColor=black"/>
-</a>
-
-<a href="https://www.linkedin.com/in/kasanagottu-snehith-77ab4a337/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:snehithkasanagottu@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<img src="https://komarev.com/ghpvc/?username=KasanagottuSnehith&label=Profile%20Views&color=203a43&style=for-the-badge"/>
-
+  <img src="https://img.shields.io/badge/Status-Open%20to%20Work-2ea44f?style=flat-square" />
+  <img src="https://img.shields.io/badge/Role-Java%20Full%20Stack%20Developer-007396?style=flat-square&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Location-Hyderabad%2C%20India-orange?style=flat-square" />
+  <img src="https://img.shields.io/badge/Graduating-2026-blue?style=flat-square" />
 </p>
 
 ---
 
-# 👨‍💻 About Me
+## 👨‍💻 About Me
 
 ```java
-public class Snehith {
-
-    String name = "Kasanagottu Snehith";
-    String education =
-        "B.Tech Electronics & Communication Engineering";
-
-    String location = "Hyderabad, India 🇮🇳";
-
-    String primaryRole = "Java Full Stack Developer";
-
-    String[] interests = {
-        "Java Development",
-        "Spring Boot",
-        "React.js",
-        "Generative AI",
-        "REST APIs",
-        "Cloud Technologies",
-        "IoT & Embedded Systems"
-    };
-
-    String currentlyBuilding =
-        "Scalable full-stack applications and AI-powered solutions";
-
-    String openTo =
-        "Software Development & Full Stack Opportunities";
+public class Developer {
+    String name        = "Kasanagottu Snehith";
+    String education   = "B.Tech ECE @ Institute of Aeronautical Engineering";
+    String location    = "Hyderabad, India";
+    String role        = "Java Full Stack Developer";
+    String[] focus     = {"Java", "React.js", "Generative AI", "IoT & Embedded Systems"};
+    String building    = "AI-powered tools that merge software, hardware and data";
+    String openTo      = "Software Development & AI roles (Fresher)";
 
     public void sayHi() {
-        System.out.println(
-            "Let's build something meaningful together 🚀"
-        );
+        System.out.println("Let's build something intelligent together!");
     }
 }
 ```
 
-I'm a **B.Tech Electronics & Communication Engineering student** passionate about software development, full-stack engineering, Generative AI, and intelligent systems.
-
-My primary focus is **Java Full Stack Development**, where I work with **Java, Spring Boot, REST APIs, React.js, MySQL, Docker, and Git** to build scalable and production-oriented applications.
-
-With an ECE background, I also enjoy combining **software, IoT, embedded systems, AI, and real-world data** to create practical technology solutions.
-
-> 💡 **My goal:** Build reliable software that solves real problems and creates measurable impact.
+I'm a final-year **Electronics & Communication Engineering** student who loves turning ideas into working systems, from **ESP32 sensors** to **satellite data pipelines** to **full stack apps** with **LLM-powered insights**. My ECE background gives me an edge in building products where **software meets hardware**.
 
 ---
 
-# 🚀 What I Do
+## 🎯 What I Do
 
-<table>
-<tr>
-<td width="50%">
-
-### ☕ Java Development
-
-- Core Java
-- OOP & Collections
-- Exception Handling
-- Multithreading
-- JDBC
-- Java 8+
-- Problem Solving
-
-</td>
-
-<td width="50%">
-
-### 🌐 Full Stack Development
-
-- Spring Boot
-- REST APIs
-- React.js
-- HTML5
-- CSS3
-- JavaScript
-- MySQL
-
-</td>
-</tr>
-
-<tr>
-<td>
-
-### 🤖 Generative AI
-
-- LLM APIs
-- AI-powered applications
-- Prompt Engineering
-- AI-assisted workflows
-- Intelligent automation
-
-</td>
-
-<td>
-
-### 🔌 IoT & Embedded
-
-- ESP32
-- Sensors
-- Microcontrollers
-- IoT communication
-- Real-time monitoring
-- Hardware-software integration
-
-</td>
-</tr>
-</table>
+| 🌐 Full Stack Development | 🤖 Generative AI | 📡 IoT and Embedded |
+|:---:|:---:|:---:|
+| Java backends, React.js frontends, REST APIs, Dockerized deployment | LLM integration, multi-agent systems, RAG pipelines, AI insights | ESP32, sensors, microcontrollers, real-time cloud data |
 
 ---
 
-# 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
-## 💻 Programming Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=java,python,c,js,html,css" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,c,js,html,css,react,nodejs,django,fastapi,mysql,docker,git,github,vscode,arduino&perline=8" alt="skills" />
 </p>
 
-## ⚙️ Backend Development
-
-<p>
-<img src="https://skillicons.dev/icons?i=spring,nodejs,django,fastapi" />
-</p>
-
-**Java • Spring Boot • Spring MVC • Spring Data JPA • REST APIs • JDBC • Hibernate**
-
-## 🎨 Frontend Development
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,html,css,js" />
-</p>
-
-**React.js • JavaScript • HTML5 • CSS3 • Responsive Web Design**
-
-## 🗄️ Databases
-
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
-</p>
-
-**MySQL • SQL • MongoDB**
-
-## ☁️ DevOps & Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=docker,git,github,vscode,linux" />
-</p>
-
-**Git • GitHub • Docker • Linux • VS Code**
-
-## 🤖 AI & Data
-
-**Generative AI • LLM APIs • XGBoost • DBSCAN • GeoPandas • Data Processing**
-
-## 🔌 Hardware & IoT
-
-**ESP32 • Sensors • Microcontrollers • Arduino • Embedded Systems • IoT**
+| Area | Technologies |
+|------|--------------|
+| **Languages** | Java, Python, C, JavaScript, MATLAB, VHDL |
+| **Frontend** | HTML, CSS, JavaScript, React.js, Responsive Design |
+| **Backend** | Java, Node.js, Django, FastAPI |
+| **Database** | MySQL |
+| **AI / GenAI** | Claude API, LangChain, FAISS, ChromaDB, Whisper, NeMo Guardrails |
+| **ML / Data** | XGBoost, DBSCAN, GeoPandas |
+| **Tools** | Git, GitHub, Docker, VS Code |
+| **Hardware** | ESP32, Sensors, Microcontrollers, IoT |
 
 ---
 
-# 🏗️ Full Stack Architecture
+## 🚀 Featured Projects
+
+### 🌍 VAYU·AI: Satellite and Ground-Fusion Urban Air Quality Intelligence
+> AI platform fusing **Sentinel-5P satellite data** with **ESP32 ground sensors** for hyper-local pollution insights.
+
+- Multi-source fusion pipeline using **XGBoost** and **DBSCAN** for prediction and hotspot detection
+- Full-stack app with **React.js**, **FastAPI**, **GeoPandas**, and **ISRO MOSDAC / Bhuvan** APIs
+- **Claude API** integration for natural-language air-quality summaries
+- Fully containerized with **Docker**
+
+`Python` `React` `FastAPI` `XGBoost` `GeoPandas` `Docker` `IoT` `Claude API`
+
+### 🤖 24/7 Intelligent Code Reviewer
+> Automated code-review platform giving actionable feedback on bugs, quality, and maintainability.
+
+- Continuous review workflow for submitted code
+- Dockerized for portable, consistent deployment
+
+`Python` `HTML` `Docker`
+
+### 🛣️ Real-Time Road Damage Monitoring (IoT)
+> Detects potholes and road damage using motion and vibration sensors with real-time cloud transmission.
+
+`IoT` `Sensors` `Microcontrollers` `Cloud`
+
+### ☀️ Dual-Axis Solar Tracker
+> Light-sensor-driven dual-axis panel control to maximize solar energy absorption.
+
+`Embedded` `Microcontrollers` `Renewable Energy`
+
+---
+
+## 🏆 Hackathon Builds
+
+| Project | Hackathon | Highlights |
+|---------|-----------|------------|
+| **OMNIMIND** | Snapdragon Multiverse Hackathon | On-device multimodal agentic AI using MediaPipe, Whisper, Phi-3 LLM, ChromaDB, FastAPI and Qualcomm AI Hub |
+| **Multi-Agent HR Automation** | NVIDIA Open Hackathon | Multi-agent system using LangChain, FAISS, FastAPI and NVIDIA NeMo Guardrails |
+| **VAYU·AI** | Hackathon submissions and exhibits | Flagship air-quality intelligence platform (see above) |
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=KasanagottuSnehith&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KasanagottuSnehith&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+</p>
+
+<!-- ===================== 3D CONTRIBUTION GRAPH =====================
+     Generated by the GitHub Action in .github/workflows/profile-3d.yml
+     (this image appears after the action runs once) -->
+<p align="center">
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution graph" width="100%" />
+</p>
+
+---
+
+## 🧭 Journey
 
 ```text
-                    ┌──────────────────────┐
-                    │      React.js        │
-                    │     Frontend UI      │
-                    └──────────┬───────────┘
-                               │
-                               │ REST API
-                               ▼
-                    ┌──────────────────────┐
-                    │     Spring Boot      │
-                    │     Backend API      │
-                    └──────────┬───────────┘
-                               │
-                  ┌────────────┼────────────┐
-                  │            │            │
-                  ▼            ▼            ▼
-              MySQL        Spring Data    AI / LLM
-              Database        JPA           APIs
-                  │
-                  ▼
-             Docker / Cloud
+2021  ●  SSC: GPA 10.0                      Mount Carmel High School
+2023  ●  Intermediate: 96.7%                Sri Chaitanya Junior College
+2023  ●  B.Tech ECE begins                  Institute of Aeronautical Engineering
+2025  ●  OCI 2025 Certified Foundations Associate
+2026  ●  IoT and Networking Internship      BSNL, RTTC Hyderabad
+2026  ●  Hackathons: Snapdragon, NVIDIA, VAYU·AI
+Now   ●  Final year, open to Java Full Stack and GenAI roles
 ```
 
 ---
 
-# 🚀 Featured Projects
+## 🎓 Education and Certifications
 
-## 🌍 VAYU·AI — Satellite & Ground-Fusion Air Quality Intelligence
-
-> **AI + IoT + Satellite Data + Full Stack**
-
-An intelligent platform designed to combine satellite observations with ground-level IoT sensor data to provide localized air-quality insights.
-
-### 🔥 Key Features
-
-- Satellite data integration
-- ESP32 ground sensor integration
-- Multi-source data fusion
-- Pollution prediction
-- Hotspot detection
-- Interactive geographical visualization
-- AI-generated air-quality summaries
-- Containerized deployment
-
-### 🧰 Technologies
-
-`React.js` `FastAPI` `Python` `XGBoost` `DBSCAN` `GeoPandas` `Docker` `ESP32` `Claude API`
+- 🎓 **B.Tech, ECE**: Institute of Aeronautical Engineering (2023 to Present)
+- ☁️ **Oracle Cloud Infrastructure 2025 Certified Foundations Associate**: Oracle
+- 📈 **Data Analytics Job Simulation**: Deloitte Australia (Forage)
+- 🎨 **CSS (Basic)**: HackerRank
+- 📡 **IoT and Networking Internship**: BSNL, RTTC Hyderabad
 
 ---
 
-# 🤖 24/7 Intelligent Code Reviewer
+## 🌱 Currently
 
-> **AI-powered Developer Productivity Platform**
-
-An automated code-review platform designed to analyze submitted source code and provide actionable insights.
-
-### Features
-
-- Automated code analysis
-- Bug identification
-- Code-quality analysis
-- Maintainability suggestions
-- Developer feedback
-- Dockerized execution environment
-
-### Technologies
-
-`Java` `Python` `HTML` `Docker` `AI`
+- 🔭 Building full stack apps with **Java** and **React.js**
+- 🧠 Exploring **GenAI**, multi-agent systems and LLM-powered products
+- 🏆 Taking part in hackathons and building real-world AI + IoT projects
+- 🎯 Preparing for **Java Full Stack** and **GenAI** developer roles
+- 💬 Ask me about: Java, React, FastAPI, Docker, IoT, GenAI
 
 ---
 
-# 🛣️ Real-Time Road Damage Monitoring
-
-> **IoT + Embedded Systems + Real-Time Monitoring**
-
-An IoT-based system designed to detect road abnormalities using motion and vibration sensors.
-
-### Features
-
-- Sensor-based detection
-- Real-time monitoring
-- Microcontroller integration
-- Cloud communication
-- Road-condition analysis
-
-### Technologies
-
-`ESP32` `IoT` `Sensors` `Microcontrollers` `Cloud`
-
----
-
-# ☀️ Dual-Axis Solar Tracker
-
-> **Embedded Systems + Renewable Energy**
-
-A smart solar-tracking system that automatically adjusts the panel orientation based on light intensity.
-
-### Features
-
-- Dual-axis movement
-- Light sensing
-- Automatic panel positioning
-- Improved solar exposure
-- Embedded control system
-
-### Technologies
-
-`Arduino` `Sensors` `Microcontrollers` `Embedded C`
-
----
-
-# 🧠 Currently Learning
-
-```text
-Java Advanced Concepts
-        ↓
-Spring Boot & Spring Ecosystem
-        ↓
-REST API Development
-        ↓
-Microservices Architecture
-        ↓
-React Full Stack Development
-        ↓
-Cloud & Docker
-        ↓
-Generative AI Integration
-```
-
----
-
-# 📊 GitHub Statistics
+## 🤝 Let's Connect
 
 <p align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=KasanagottuSnehith&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" />
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KasanagottuSnehith&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" />
-
+  <a href="https://www.linkedin.com/in/kasanagottu-snehith-77ab4a337/"><img src="https://skillicons.dev/icons?i=linkedin" height="40" /></a>&nbsp;&nbsp;
+  <a href="mailto:snehithkasanagottu@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40" /></a>&nbsp;&nbsp;
+  <a href="https://KasanagottuSnehith.github.io/Portfolio/"><img src="https://skillicons.dev/icons?i=react" height="40" /></a>
 </p>
 
----
+<p align="center"><i>Open to opportunities in Java Full Stack and GenAI. Let's talk!</i></p>
 
-# 🔥 GitHub Streak
-
+<!-- ===================== FOOTER ===================== -->
 <p align="center">
-
-<img src="https://streak-stats.demolab.com?user=KasanagottuSnehith&theme=tokyonight&hide_border=true&background=0D1117" />
-
-</p>
-
----
-
-# 🐍 Contribution Activity
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake animation"/>
-
-</p>
-
----
-
-# 📈 3D Contribution Graph
-
-<p align="center">
-
-<img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D GitHub Contribution Graph" width="100%"/>
-
-</p>
-
-> Generated automatically using a GitHub Actions workflow.
-
----
-
-# 🎓 Education & Certifications
-
-### 🎓 B.Tech — Electronics & Communication Engineering
-**Institute of Aeronautical Engineering**  
-2023 – Present
-
-### ☁️ Oracle Cloud Infrastructure
-**Oracle Cloud Infrastructure 2025 Certified Foundations Associate**
-
-### 📊 Data Analytics Job Simulation
-**Deloitte Australia — Forage**
-
-### 🎨 CSS Certification
-**HackerRank — CSS (Basic)**
-
-### 📡 IoT & Networking Internship
-**BSNL — RTTC Hyderabad**
-
----
-
-# 🏆 Highlights
-
-```text
-🎓 ECE Engineering Background
-        +
-☕ Java Full Stack Development
-        +
-⚛️ React.js
-        +
-🌱 Spring Boot
-        +
-🤖 Generative AI
-        +
-🔌 IoT & Embedded Systems
-        =
-🚀 Full-Stack Intelligent Systems
-```
-
----
-
-# 🎯 Career Focus
-
-I'm currently interested in opportunities involving:
-
-- Java Full Stack Development
-- Software Engineering
-- Backend Development
-- Spring Boot Development
-- React Development
-- REST API Development
-- AI-powered Applications
-- IoT & Intelligent Systems
-
-I'm especially interested in building products where **software engineering, AI, data, and real-world systems come together.**
-
----
-
-# 🤝 Let's Connect
-
-<p align="center">
-
-<a href="https://www.linkedin.com/in/kasanagottu-snehith-77ab4a337/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://KasanagottuSnehith.github.io/Portfolio/">
-<img src="https://img.shields.io/badge/Portfolio-Explore-00F7FF?style=for-the-badge&logo=googlechrome&logoColor=black"/>
-</a>
-
-<a href="mailto:snehithkasanagottu@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</p>
-
-<p align="center">
-
-<i>“Build. Learn. Experiment. Solve real problems.” 🚀</i>
-
-</p>
-
----
-
-<!-- ========================================================= -->
-<!--                         FOOTER                            -->
-<!-- ========================================================= -->
-
-<p align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=150&section=footer" width="100%"/>
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=140&section=footer" alt="footer" />
 </p>
