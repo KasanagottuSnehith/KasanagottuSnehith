@@ -6,7 +6,7 @@ class Developer:
         self.name = "Kasanagottu Snehith"
         self.education = "B.Tech ECE @ Institute of Aeronautical Engineering"
         self.location = "Hyderabad, India 🇮🇳"
-        self.focus = ["Python Full Stack", "Generative AI", "IoT & Embedded Systems"]
+        self.focus = ["Java Full Stack", "Generative AI", "IoT & Embedded Systems"]
         self.currently_building = "AI-powered tools that merge software, hardware & data"
         self.open_to = "Software Development & AI roles (Fresher)"
 
